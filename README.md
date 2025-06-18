@@ -1,4 +1,4 @@
-# Are App
+# Area App
 
 # Development - FRONTEND (client)
 Use nvm to install node v16.10
